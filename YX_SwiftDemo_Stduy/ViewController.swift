@@ -13,6 +13,15 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        //定义字符串
+        let str = "Hello, playground";
+        print(str);
+        //声明变量
+        let indexNum = 123;
+        print(indexNum);
+        
+        
+        
     }
 
     override func didReceiveMemoryWarning() {
